@@ -1,1 +1,1 @@
-It is an RPG made in C language.
+It is a RPG made in C language.
